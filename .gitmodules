@@ -1,0 +1,6 @@
+[submodule "websockify"]
+	path = websockify
+	url = git://github.com/novnc/websockify.git
+[submodule "libapps"]
+	path = libapps
+	url = https://chromium.googlesource.com/apps/libapps
